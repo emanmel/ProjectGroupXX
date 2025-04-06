@@ -18,6 +18,7 @@ Briefly describe your robot design, the inspiration (animal), and your developme
 - Member 3: name / id
 
 ---
+### Week 11
 ## 💡 Phase 1: Lighting, depth setup and first sketch (robot design)
 
 - Description of the lighting setup and depth applied to the scene.
@@ -27,7 +28,7 @@ Briefly describe your robot design, the inspiration (animal), and your developme
 
 
 ---
-
+### Week 12
 ## ✅ Phase 2: Robot Construction
 
 - Description of how the robot was modeled using 3D primitives.
@@ -35,14 +36,14 @@ Briefly describe your robot design, the inspiration (animal), and your developme
 - describe Challenges and how you addressed them in the challenge table below.
 
 ---
-
+### Week 13
 ## 🦿 Phase 3: Basic Animation
 
 - Explanation of which parts were animated and how.
 - Any specific animation logic or hierarchical modeling techniques.
 
 ---
-
+### Week 15
 ## 🧩 Phase 4: Interaction
 
 - Summary of added controls (keyboard/mouse).
@@ -60,7 +61,7 @@ Briefly describe your robot design, the inspiration (animal), and your developme
 ---
 
 
-## 💬 Final Reflection
+## 💬 Final Reflection 
 
 - What did your team learn during this project?
 - What was the most challenging and rewarding part?
