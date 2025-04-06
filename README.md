@@ -1,4 +1,5 @@
-# ProjectGroupXX
+![CCIS LOGO](images/CCISlogo.png)
+# ProjectGroupXX     
 
 This README serves as the full report for the Computer Graphics course project. All group members should contribute to updating this file as the project progresses.
 
